@@ -1,4 +1,4 @@
-# Simple Contact Form v-1
+# Simple Contact Form v1
 
 فرم تماس ساده ساخته شده با HTML، CSS و JavaScript. این پروژه دارای اعتبارسنجی فرم، بررسی ایمیل و نمایش پیام موفقیت است.
 
